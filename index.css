@@ -26,7 +26,8 @@
 .diag{
     border:3px solid black;
     width:90%;
-    height:66vh;
+    height:fit-content;
+    padding:9px;
     margin-left:5%;
 }
 
